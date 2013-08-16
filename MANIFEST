@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+setup.py
+echometrics/__init__.py
+echometrics/echometrics.py
+echometrics/tests/fixtures.py
+echometrics/tests/test_echogram.py
+echometrics/tests/test_metrics.py
