@@ -22,11 +22,7 @@ This package depends on a few other Python packages, which can all be found on P
 
 Installing
 ----------
-Use the standard ``pip`` command:
-
-    pip install EchoMetrics
-
-Alternatively, download the package, then extract it and ``cd`` into the directory:
+Download the package, then extract it and ``cd`` into the directory:
 
     tar -xf EchoMetrics-x.x.x.tar.gz
     cd EchoMetrics-x.x.x
